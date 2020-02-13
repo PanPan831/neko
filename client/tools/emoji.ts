@@ -175,8 +175,8 @@ ${css.map(v => `  ${v}`).join('\n')}
 const data = {
   groups: [
     {
-      id: 'neko',
-      name: 'Neko',
+      id: 'happy',
+      name: 'happy',
       list: groups['neko'] ? groups['neko'] : [],
     },
     {
