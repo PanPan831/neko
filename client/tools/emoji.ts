@@ -177,7 +177,7 @@ const data = {
     {
       id: 'happy',
       name: 'happy',
-      list: groups['neko'] ? groups['neko'] : [],
+      list: groups['Custom Emotes'] ? groups['Custom Emotes'] : [],
     },
     {
       id: 'emotion',
